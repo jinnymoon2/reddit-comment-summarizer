@@ -8,12 +8,6 @@ A small terminal program that reads a Reddit thread and summarizes the comments 
 python3 reddit_comment_summarizer.py "https://www.reddit.com/r/Python/comments/example/thread_title/"
 ```
 
-Use the included sample:
-
-```bash
-python3 reddit_comment_summarizer.py sample_reddit_thread.json --input-file
-```
-
 ## Options
 
 ```bash
