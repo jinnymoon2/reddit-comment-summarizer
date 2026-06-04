@@ -1,0 +1,77 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "title": "What makes a good terminal app?",
+            "selftext": "I am building a small command-line tool and want it to feel useful instead of annoying."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "body": "A good terminal app should have obvious defaults, readable help text, and predictable output. People should not need a tutorial for the common path.",
+            "score": 42,
+            "replies": ""
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "body": "Make errors actionable. If something fails, explain what happened and what the user can try next instead of dumping a scary stack trace.",
+            "score": 37,
+            "replies": ""
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "body": "It helps when the app works with pipes and files. Terminal tools become much more useful when they can fit into existing workflows.",
+            "score": 28,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "body": "Yes, plain text output is underrated. Fancy formatting is nice, but it should not make copying or scripting painful.",
+                      "score": 18,
+                      "replies": ""
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "body": "Fast startup matters because command-line tools are often run repeatedly. Even a small delay gets irritating when it happens all day.",
+            "score": 31,
+            "replies": ""
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "body": "I like tools that can run without configuration but still allow configuration later. The first run should feel effortless.",
+            "score": 25,
+            "replies": ""
+          }
+        }
+      ]
+    }
+  }
+]
