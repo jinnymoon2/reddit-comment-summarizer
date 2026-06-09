@@ -1,3 +1,4 @@
+[![커버리지](https://aline.team/git-profile?type=COVERAGE&theme=light&lang=ko&sharedCode=14d2be55-bed7-4556-a39d-45a1f429a74f)](https://aline.team)
 # Reddit Comment Summarizer
 
 A small terminal program that reads a Reddit thread and summarizes the comments as bullet points.
